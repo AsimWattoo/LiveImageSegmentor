@@ -5,8 +5,13 @@ In addition to that this code also applies blur effect on the background.
 
 ## Segmentation Results
 **Original Image**
+
 ![Alt text](OriginalImage.png)
+
 **Segmented Image**
+
 ![Alt text](SegmentedImage.png)
+
 **Blured Image**
+
 ![Alt text](BluredImage.png)
